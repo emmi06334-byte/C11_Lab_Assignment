@@ -1,0 +1,9 @@
+<servlet>
+    <servlet-name>BookController</servlet-name>
+    <servlet-class>main.java.com.example.bookapp.controller.BookController</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>BookController</servlet-name>
+    <url-pattern>/BookController</url-pattern>
+</servlet-mapping>
